@@ -11,6 +11,28 @@ master
 master
 
 b1 branch add
+<<<<<<< HEAD
 
 b1 branch add
 b1 add again
+=======
+b1 add again
+
+
+b111
+b111
+b111
+b111
+b111
+b111
+b111
+b111
+b111
+b111
+b111
+b111
+b111
+b111
+b111
+b111
+>>>>>>> 3adaf27 (third on b1)

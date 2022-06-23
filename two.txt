@@ -1,5 +1,6 @@
 master add
 
+<<<<<<< HEAD
 master
 master
 master
@@ -15,3 +16,23 @@ master
 master
 master
 master
+=======
+
+b1
+b1
+b1
+b1
+b1
+b1
+b1
+b1
+b1
+b1
+b1
+b1
+b1
+b1
+b1
+b1
+b1
+>>>>>>> 3adaf27 (third on b1)
